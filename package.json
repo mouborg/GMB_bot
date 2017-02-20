@@ -1,0 +1,23 @@
+{
+  "name": "gmb_bot",
+  "version": "1.0.0",
+  "description": "GMB_bot",
+  "main": "lib/gmb_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouborg/GMB_bot.git"
+  },
+  "author": "Ouborg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouborg/GMB_bot/issues"
+  },
+  "homepage": "https://github.com/mouborg/GMB_bot#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2",
+    "sqlite3": "^3.1.8"
+  }
+}
